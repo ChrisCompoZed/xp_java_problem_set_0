@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlaylistTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-05-17T11:36:15" hostname="compozed-ANI-06" time="0.015">
+  <properties/>
+  <testcase name="totalDuration_showsTotalDurationOfAllSongsInPlaylist" classname="PlaylistTest" time="0.001"/>
+  <testcase name="removeSong_allowsSongsToBeRemovedFromPlaylist" classname="PlaylistTest" time="0.002"/>
+  <testcase name="createPlaylist_isInitializedWithAName" classname="PlaylistTest" time="0.0"/>
+  <testcase name="addSong_addsASongToPlaylist" classname="PlaylistTest" time="0.003"/>
+  <testcase name="swapSongs_allowsSongsToBeSwappedInPlaylistOrder" classname="PlaylistTest" time="0.001"/>
+  <testcase name="createPlaylist_isEmptyByDefault" classname="PlaylistTest" time="0.0"/>
+  <testcase name="songNames_allowsYouToSeeSongNamesInOrderAdded" classname="PlaylistTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
